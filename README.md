@@ -1,3 +1,3 @@
 # Strapi application
-
-A quick description of your strapi application
+le first commit s'agit de l'api restaurant (STRAPI).
+Il s'agit du dossier my-project
